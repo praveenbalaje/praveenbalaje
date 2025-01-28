@@ -32,19 +32,9 @@
 ## 📈 GitHub Highlights  
 
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=praveenbalaje&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
-  <br>
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=praveenbalaje&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-  <br>
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenbalaje&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-</div>
-
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=praveenbalaje&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" onerror="this.style.display='none'">
+  <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=praveenbalaje)](https://git.io/streak-stats)" alt="GitHub Streak" onerror="this.style.display='none'">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=praveenbalaje&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
   <br>
