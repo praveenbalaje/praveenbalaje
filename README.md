@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hi, I'm Praveen Balaje! ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F759DA&center=true&vCenter=true&width=440&lines=Full+Stack+Developer;Crafting+Solutions+with+Angular+%26+Spring+Boot;LeetCode+Daily+Challenge+Solver;Always+Learning+%26+Building!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=00ADEF&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;Problem-Solving+Enthusiast;Code.+Build.+Repeat.;Learning+and+Innovating+Daily!" alt="Typing SVG">
 </p>
 
 ---
@@ -10,11 +10,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/Android%20Development-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
 </p>
 
@@ -23,17 +23,16 @@
 ## 💡 About Me  
 
 - 🚀 Full Stack Developer with **5.6+ years of experience** in building scalable, secure, and efficient solutions.  
-- 🛠️ Experienced in **Angular**, **Spring Boot**, and **Android Development**.  
-- 💻 Passionate about clean code, intuitive user interfaces, and impactful software architecture.  
-- 🌟 Solving **LeetCode Daily Challenges** to keep my problem-solving skills sharp.  
-- 🔄 Always learning and adapting to new technologies!
+- 🌟 Avid **problem-solver** tackling daily challenges on **LeetCode**.  
+- 💻 Passionate about **clean code**, **innovative solutions**, and **beautiful user experiences**.  
+- 🔄 Always exploring the latest in **tech trends** to stay ahead!  
 
 ---
 
 ## 📈 GitHub Highlights  
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=praveenbalaje&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=praveenbalaje&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" onerror="this.style.display='none'">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=praveenbalaje&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
   <br>
@@ -45,7 +44,7 @@
 ## 🏆 LeetCode Challenges  
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=praveenbalaje&theme=dark" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/praveenbalaje?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats">
 </p>
 
 ---
@@ -56,14 +55,6 @@
   <img src="https://img.shields.io/badge/Angular%20Developer-Pro-blueviolet?style=for-the-badge" alt="Angular Badge">
   <img src="https://img.shields.io/badge/Spring%20Boot%20Expert-Green?style=for-the-badge" alt="Spring Boot Badge">
   <img src="https://komarev.com/ghpvc/?username=praveenbalaje&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views">
-</p>
-
----
-
-## ✨ Fun Stats  
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=praveenbalaje&theme=onedark&row=1&no-frame=true" alt="Trophies">
 </p>
 
 ---
