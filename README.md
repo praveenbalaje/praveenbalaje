@@ -33,7 +33,10 @@
 
 <div align="center">
   <!-- GitHub Streak -->
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=praveenbalaje&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://github.com/praveenbalaje/github-readme-streak-stats">
+  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=praveenbalaje&theme=dark&hide_border=false" alt="GitHub Streak" />
+</a>
+  <br>
   <br>
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=praveenbalaje&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
