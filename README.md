@@ -32,12 +32,13 @@
 ## 📈 GitHub Highlights  
 
 <div align="center">
-
-<div align="center">
-  <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=praveenbalaje)](https://git.io/streak-stats)" alt="GitHub Streak" onerror="this.style.display='none'">
+  <!-- GitHub Streak -->
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=praveenbalaje&theme=dark" alt="GitHub Streak" /></a>
   <br>
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=praveenbalaje&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
   <br>
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenbalaje&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </div>
 
