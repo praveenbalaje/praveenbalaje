@@ -1,9 +1,5 @@
 <h1 align="center">✨ Hi, I'm Praveen Balaje! ✨</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=00ADEF&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;Problem-Solving+Enthusiast;Code.+Build.+Repeat.;Learning+and+Innovating+Daily!" alt="Typing SVG">
-</p>
-
 ---
 
 ## 🛠️ Tech Stack  
@@ -21,7 +17,6 @@
 ---
 
 ## 💡 About Me  
-
 - 🚀 Full Stack Developer with **5.6+ years of experience** in building scalable, secure, and efficient solutions.  
 - 🌟 Avid **problem-solver** tackling daily challenges on **LeetCode**.  
 - 💻 Passionate about **clean code**, **innovative solutions**, and **beautiful user experiences**.  
@@ -29,34 +24,31 @@
 
 ---
 
-## 📈 GitHub Highlights  
-
+## 📈 GitHub & LeetCode Stats  
 <div align="center">
-  <!-- GitHub Streak -->
-<a href="https://github.com/praveenbalaje/github-readme-streak-stats">
-  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=praveenbalaje&theme=dark&hide_border=false" alt="GitHub Streak" />
-</a>
-  <br>
-  <br>
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=praveenbalaje&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-  <br>
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenbalaje&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <table>
+    <tr>
+      <td>
+        <img height=180 src="https://github-readme-streak-stats-eight.vercel.app/?user=praveenbalaje&theme=dark&hide_border=false" alt="GitHub Streak">
+      </td>
+      <td>
+        <img height=180 src="https://github-readme-stats.vercel.app/api?username=praveenbalaje&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenbalaje&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+      </td>
+      <td>
+        <img height=180 src="https://leetcard.jacoblin.cool/praveenbalaje?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## 🏆 LeetCode Challenges  
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/praveenbalaje?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats">
-</p>
-
----
-
 ## 🔥 Badges  
-
 <p align="center">
   <img src="https://img.shields.io/badge/Angular%20Developer-Pro-blueviolet?style=for-the-badge" alt="Angular Badge">
   <img src="https://img.shields.io/badge/Spring%20Boot%20Expert-Green?style=for-the-badge" alt="Spring Boot Badge">
@@ -66,7 +58,6 @@
 ---
 
 ## 🤝 Connect with Me  
-
 <p align="center">
   <a href="https://www.linkedin.com/in/praveenbalaje/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -75,3 +66,4 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
