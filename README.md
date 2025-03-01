@@ -35,15 +35,9 @@
         <img height=180 src="https://github-readme-stats.vercel.app/api?username=praveenbalaje&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
       </td>
     </tr>
-    <tr>
-      <td>
-        <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=praveenbalaje&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
-      </td>
-      <td>
-        <img height=180 src="https://leetcard.jacoblin.cool/praveenbalaje?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats">
-      </td>
-    </tr>
   </table>
+  <br>
+  <img src="https://leetcard.jacoblin.cool/praveenbalaje?theme=dark&font=Karma&ext=heatmap&ext=contest" alt="LeetCode Stats">
 </div>
 
 ---
@@ -52,6 +46,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Angular%20Developer-Pro-blueviolet?style=for-the-badge" alt="Angular Badge">
   <img src="https://img.shields.io/badge/Spring%20Boot%20Expert-Green?style=for-the-badge" alt="Spring Boot Badge">
+  <img src="https://img.shields.io/badge/LeetCode%20Streak-🔥%20Active-orange?style=for-the-badge" alt="LeetCode Streak">
+  <img src="https://img.shields.io/badge/LeetCode%20Top%20Ranker-%F0%9F%92%AA-blue?style=for-the-badge" alt="LeetCode Top Ranker">
   <img src="https://komarev.com/ghpvc/?username=praveenbalaje&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views">
 </p>
 
